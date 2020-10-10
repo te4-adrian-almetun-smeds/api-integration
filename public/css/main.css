@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    background: #2e2e2e;
+    color: #fff;
+}
+.dep-entry {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    width: 20vw;
+    margin-right: 5px;
+}
+
+.dep-entry * {
+    margin: 3px 2px;
+    text-align: left;
+}
+
+
